@@ -1,4 +1,4 @@
 # run server
 
-npm run start
+#npm run start
 
