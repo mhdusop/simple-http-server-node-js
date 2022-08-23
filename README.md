@@ -1,1 +1,4 @@
-# simple-http-server-node-js
+# run server
+
+npm run start
+
